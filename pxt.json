@@ -1,10 +1,11 @@
 {
-    "name": "Barita mágica",
+    "name": "varita mágica",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
